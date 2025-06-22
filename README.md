@@ -3,7 +3,7 @@
 <img width="1123" alt="Screenshot 2024-12-09 at 3 04 51 PM" src="https://github.com/user-attachments/assets/28e9dece-f798-4275-af9a-3eb13948e04e">
 
 
-## Demo
+## Demo Screenshots
 
 <img width="1440" alt="Screenshot 2024-12-09 at 3 23 04 PM" src="https://github.com/user-attachments/assets/5d50b007-066d-40a7-90bc-db10434e208e">
 
@@ -12,7 +12,10 @@
 <img width="1440" alt="Screenshot 2024-12-09 at 3 23 20 PM" src="https://github.com/user-attachments/assets/28f8c7a8-9c4d-4857-a3b8-ee60f9671cde">
 
 
-Video: https://drive.google.com/file/d/17LxWgcYhWtinDiOtr3ql-bl94SquUjzb/view?usp=share_link
+
+## Demo Video
+
+https://github.com/user-attachments/assets/3e0b0bd6-53d8-4136-8503-a1c63c9820b5
 
 
 ### Technologies
